@@ -1,0 +1,3 @@
+/home/masha/CLionProjects/допса/1lab/cmake-build-debug/CMakeFiles/lab1.dir
+/home/masha/CLionProjects/допса/1lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/masha/CLionProjects/допса/1lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
